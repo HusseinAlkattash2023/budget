@@ -1,11 +1,11 @@
 import React from 'react'
 
-const Dashboad = () => {
+const Error = () => {
   return (
     <div>
-      Dashboad
+      Error!
     </div>
   )
 }
 
-export default Dashboad
+export default Error
