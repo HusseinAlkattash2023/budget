@@ -384,6 +384,7 @@ select {
   -ms-flex-pack: center;
   justify-content: center;
   gap: var(--space-lg);
+
 }
 
 .intro div {
@@ -398,6 +399,10 @@ select {
   display: grid;
   gap: var(--space-sm);
   max-width: 25ch;
+}
+
+.intro img{
+  margin-left: 200px;
 }
 
 /* dashboard */
